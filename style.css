@@ -1,0 +1,34 @@
+body{
+	background: lightgreen
+
+ }
+
+#title{
+	text-align: center;
+}
+
+#subtitle{
+	text-align: center;
+}
+
+.gif{
+	 display:block;
+     margin: 0 auto;
+}
+
+#First{ 
+	width: 40%;
+	height: 250px;
+	background-color: orange;
+}
+
+#Second {
+	width: 40%;
+	height: 500px;
+	background-color: lightblue;
+}
+
+#hello {
+	color:red;
+	font-size: 60px;
+}
