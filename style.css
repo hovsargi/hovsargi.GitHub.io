@@ -5,10 +5,12 @@ body{
 
 #title{
 	text-align: center;
+	font-family: Trebuchet MS;
 }
 
 #subtitle{
 	text-align: center;
+	font-family: Trebuchet MS;
 }
 
 .gif{
@@ -16,16 +18,59 @@ body{
      margin: 0 auto;
 }
 
+.table1{
+ 	
+ 	background-color: #F2F5A9;
+}
+
 #First{ 
 	width: 40%;
-	height: 250px;
+	height: 320px;
 	background-color: orange;
+	font-family: helvetica;
+}
+
+.edu{
+	font-size: 20px;
+	text-align: center;
+	font-family: sans-serif;
+	color: #F50C0C;
+}
+
+.o_list{
+	color: #F50C0C;
+	font-size: 20px;
 }
 
 #Second {
 	width: 40%;
-	height: 500px;
+	height: 700px;
 	background-color: lightblue;
+	font-family: Times New Roman;
+}
+
+.work{
+	font-size: 20px;
+	text-align: center;
+	font-family: fantasy;
+	color: #08088A;
+}
+
+.o_list1{
+	color: #08088A;
+	font-size: 20px;
+}
+
+.u_list{
+	color: #08088A;
+	font-size: 20px;
+	background-color: #F5A9BC;
+}
+
+.u_list2{
+	color: #08088A;
+	font-size: 20px;
+	background-color: #F5A9BC;
 }
 
 #hello {
